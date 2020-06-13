@@ -1,0 +1,22 @@
+Steps 1 and 2 done
+Steps 3 - 6 (The Plan!):
+  So basically I have to make this website. How you may ask? That is a
+  good question..... but here is what I plan to do!
+
+  1.) Figure out headers and paragraphs, order the logos first, not the
+  right hand photo.
+  2.) Make the CSS folder and install bootstrap so I do not die
+    a.) Put specified fonts and override bootstrap when necessary
+  3.) Put contents into divs and add the picture to the right hand
+  side
+    a.) Put content into 4 different divs, organize them and manipulate their sizes
+    so that it looks good :0
+    b.) First div is the Base Appareal
+    c.) Second div is the WERE COMING soon
+    d.) Third div is the Description
+    e.) Fourth div is the email
+    f.) Split into two bigger divs that take up the whole hieght and split
+    the page 60 percent for the information and the image to the left
+    40 percent of the page
+  4.) Figure out styles and backgrounds
+  5.) Make the website responsive.
